@@ -9,3 +9,4 @@ next(customer_file)
 
 for record in customer_file:
     print("Last Name:",record[2])
+    input()
